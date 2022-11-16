@@ -1,0 +1,28 @@
+_repo: The-Moon-Maid_69338
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2022-11-13'
+identifiers:
+  gutenberg: '69338'
+language: en
+pgterms:marc905: 20221110185550burroughs
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Al Haines, Jim Blanchard, Cindy Beyer & the online Distributed Proofreaders
+  Canada team at https://www.pgdpcanada.net
+publication_note: 'United States: Grosset & Dunlap,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Moon Maid
+url: http://www.gutenberg.org/ebooks/69338
